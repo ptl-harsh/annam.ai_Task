@@ -1,4 +1,9 @@
-### [Note : to know more see the screenshots at the bottom]
+### [Note : To know more see the screenshots at the bottom]
+
+
+
+
+
 
 ## Video Lecture Transcription & MCQ Generator
 
