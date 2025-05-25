@@ -1,3 +1,5 @@
+### [Note : to know more see the screenshots at the bottom]
+
 ## Video Lecture Transcription & MCQ Generator
 
 A full-stack web application that processes video lectures, generates text transcripts, and automatically creates multiple-choice questions (MCQs) for each segment. The app features a modern, polished interface and demonstrates core MVP functionality.
