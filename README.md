@@ -122,6 +122,6 @@ A full-stack web application that processes video lectures, generates text trans
 
 ![Transcript & MCQs](screenshots/image2.png)
 
-![Transcript & MCQs](screenshots/image2.png)
+![Transcript & MCQs](screenshots/image3.png)
 
-![Transcript & MCQs](screenshots/image2.png)
+![Transcript & MCQs](screenshots/image4.png)
